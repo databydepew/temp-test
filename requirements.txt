@@ -1,0 +1,10 @@
+# Required for training
+xgboost==1.6.2
+pandas==1.5.3
+scikit-learn==1.2.2
+google-cloud-bigquery==3.10.0
+cloudml-hypertune==0.1.0.dev6
+
+# Required for pipeline compilation and Vertex AI SDK
+kfp==2.5.0
+google-cloud-aiplatform==1.33.0

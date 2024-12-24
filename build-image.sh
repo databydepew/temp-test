@@ -1,0 +1,1 @@
+docker build . -t us-central1-docker.pkg.dev/mdepew-assets/vertex-ai-images/xgboost-train:latest
